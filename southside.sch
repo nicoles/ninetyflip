@@ -4823,7 +4823,7 @@ U 1 1 60AFCC54
 P 31350 9650
 F 0 "SW1" H 31450 9300 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 31500 9400 50  0000 C CNN
-F 2 "" H 31200 9810 50  0001 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 31200 9810 50  0001 C CNN
 F 3 "~" H 31350 9910 50  0001 C CNN
 	1    31350 9650
 	-1   0    0    1   
