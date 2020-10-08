@@ -1,3 +1,3 @@
-# sixtyfive
+# ninetyflip
  
-A 65% keyboard. Using https://github.com/AcheronProject/Tsuki as a guide, wish me luck?
+a lot of keys. so many keys. the numpad isn't where you'd expect. 
